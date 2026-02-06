@@ -115,7 +115,7 @@ root.mainloop()
 - Unlimited password generations
 **Technologies**: Python, Tkinter
 <br><br>
-<img width="897" height="417" alt="image" src="https://github.com/user-attachments/assets/47876655-643f-4e16-856b-cfb963cf2981" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/47876655-643f-4e16-856b-cfb963cf2981" />
 <br>
 
 # ⚙️ Installation
@@ -126,7 +126,7 @@ Clone this repository:
 - In VScode/pycharm open terminal and type command
    
 ```bash
-git clone [<repository-link>](https://github.com/2005MohitInamdar/Python-GUI.git)
+git clone https://github.com/2005MohitInamdar/Python-GUI.git
 ```
 Navigate to the project folder and run the Python file:
 
