@@ -30,14 +30,14 @@ root.mainloop()
 Features:
 - Add and view expense records
 Technologies Used: Python, Tkinter
-
+<br><br>
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/d24e88c2-1e10-42a0-976b-3b40a99422bb" width="500" height="200" />
+      <img src="https://github.com/user-attachments/assets/d24e88c2-1e10-42a0-976b-3b40a99422bb" width="400" height="200" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/80ca3b7b-6bcd-4ba5-93bc-4f849201e542" width="500" height="200" />
+      <img src="https://github.com/user-attachments/assets/80ca3b7b-6bcd-4ba5-93bc-4f849201e542" width="400" height="200" />
     </td>
   </tr>
 </table>
