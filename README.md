@@ -1,4 +1,4 @@
-<img width="1799" height="833" alt="image" src="https://github.com/user-attachments/assets/15424659-5979-462a-a7e3-7263e4f6536d" /># Python Tkinter Projects
+# Python Tkinter Projects
 
 A collection of beginner-friendly Python GUI projects built using Tkinter. These projects are designed to practice GUI development, handle user input, and implement basic functionality with Python.
 
