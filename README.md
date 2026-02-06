@@ -53,16 +53,10 @@ root.mainloop()
 - Complete any task with a button click *task turns green*
 **Technologies**: Python, Tkinter
 <br><br>
-<table>
-  <tr>
-    <td>
-      <img width="600" height="300" src="https://github.com/user-attachments/assets/79981c42-a2fc-456f-8351-f2e3cddee543" />
-    </td>
-    <td>
-      <img width="1796" height="834" alt="image" src="https://github.com/user-attachments/assets/173456e5-0cd6-4e95-9f46-df19f5bfe8e3" />
-    </td>
-  </tr>
-</table>
+<img width="1796" height="834" src="https://github.com/user-attachments/assets/79981c42-a2fc-456f-8351-f2e3cddee543" />
+<br>
+<img width="1796" height="834" alt="image" src="https://github.com/user-attachments/assets/173456e5-0cd6-4e95-9f46-df19f5bfe8e3" />
+
 <br>
 
 ## 🔢 Calculator
