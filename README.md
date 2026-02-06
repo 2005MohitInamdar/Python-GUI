@@ -28,7 +28,7 @@ root.mainloop()
 ## 💸 Expense Tracker
 **Description**: Track your daily expenses and manage your budget.
 **Features**:
-- Add and view expense records
+- Add and view expense records <br>
 **Technologies**: Python, Tkinter
 <br><br>
 <table>
@@ -50,7 +50,7 @@ root.mainloop()
 - Mark tasks as completed
 - Update existing tasks
 - Clear all tasks with a button click
-- Complete any task with a button click *task turns green*
+- Complete any task with a button click *task turns green* <br>
 **Technologies**: Python, Tkinter
 <br><br>
 <table>
@@ -72,7 +72,7 @@ root.mainloop()
 - Addition, subtraction, multiplication, division and Modulus
 - Clear and reset functionality
 - Easy-to-use graphical interface
-- Can manage decimal numbers accurately
+- Can manage decimal numbers accurately <br>
 **Technologies**: Python, Tkinter
 <br><br>
 <table>
@@ -92,7 +92,7 @@ root.mainloop()
 **Features**:
 - Add, update, and delete contacts
 - Select and edit existing contacts with a button click
-- Easy-to-use graphical interface
+- Easy-to-use graphical interface <br>
 **Technologies**: Python, Tkinter
 <br><br>
 <table>
@@ -112,7 +112,7 @@ root.mainloop()
 **Features**:
 - Specify password length
 - Generate passwords with letters, numbers, and special characters
-- Unlimited password generations
+- Unlimited password generations <br>
 **Technologies**: Python, Tkinter
 <br><br>
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/47876655-643f-4e16-856b-cfb963cf2981" />
