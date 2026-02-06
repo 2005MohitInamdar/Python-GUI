@@ -23,7 +23,7 @@ def open_homepage():
 
 def open_contactboook():
     try:
-        if(ID_entry.get() =="mohit inamdar" and password_entry.get() == "12345"):
+        if(ID_entry.get() =="user" and password_entry.get() == "12345"):
             subprocess.Popen(['python', 'contact.py'])
             root.destroy()
         elif(ID_entry.get()!= "mohit inamdar"):
@@ -69,6 +69,7 @@ button_login = tk.Button(text = "Login", font=("Arial", 16), command=open_contac
 frame.pack()
 button_login.pack(pady=15)
 root.mainloop()
+
 
 
 
