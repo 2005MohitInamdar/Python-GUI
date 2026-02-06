@@ -155,15 +155,13 @@ python Basic_calculator.py
 ```
 <br>
 
-- for homepage.py
+- for contact book
 ```bash
-python Basic_calculator.py
+python homepage.py
 ```
-
-then on GUI loginpage 
-
-ID: user <br>
-password: 12345
+<br> then on GUI loginpage 
+<br> *ID: user <br>
+password: 12345*
 
 <br>
 
