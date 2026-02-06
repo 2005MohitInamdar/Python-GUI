@@ -5,8 +5,8 @@ A collection of beginner-friendly Python GUI projects built using Tkinter. These
 
 
 # Tkinter
-*Once upon a Python…
-Python was born as a friendly language—easy to read, easy to write. But Python had a little problem: it was great at crunching numbers and processing data, but it couldn’t talk to humans visually. You know, no buttons, no windows, no boxes to click on. Python wanted to build a calculator, a game, or a text editor—but how?
+*Python was born as a friendly language easy to read, easy to write. But Python had a little problem: it was great at crunching numbers and processing data, but it couldn’t talk to humans visually. You know, no buttons, no windows, no boxes to click on. Python wanted to build a calculator, a game, or a text editor—but how?
+
 Enter Tkinter, Python’s trusty sidekick.*
 
 Tkinter is Python’s standard library for building graphical user interfaces (GUIs).
